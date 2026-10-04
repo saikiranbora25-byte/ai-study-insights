@@ -1,0 +1,15 @@
+# Large raw archives or downloads
+*.zip
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Kaggle credentials
+kaggle.json
+
+# Streamlit cache
+.streamlit/
