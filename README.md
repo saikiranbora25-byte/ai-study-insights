@@ -1,5 +1,8 @@
-﻿# 🤖 AI Study Insights
+# 🤖 AI Study Insights
 ### Analysis & Prediction of Indian Students' AI-Tool Usage and Its Academic Impact
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=saikiranbora25-byte/ai-study-insights&branch=main&mainModule=app.py)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/saikiranbora25-byte/ai-study-insights)
 
 ---
 
